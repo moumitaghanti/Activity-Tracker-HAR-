@@ -1,0 +1,88 @@
+----------------- 1. The Scoping Phase
+
+1.1 product need - problem or challenge being analyzed
+
+1.2 initial solution ideation
+- rough sketches of solutions
+-- unsupervised clustering vs boosted-tree-based classification vs probabilistic inference
+-- data to be used (external data source or monitored and saved data)
+-- data exploration
+
+1.3 Data Prep and accesibility
+- dumping large data sets from production into their staging/exploration
+counterparts -- needed for research phase to start
+
+1.4 Scope & KPIs
+"predicting Activity recognition accuracy will reach 90% or higher
+after adding 10,000+ data points"
+
+
+scope limitation 1: only using one ml model
+scope limitation 2: 
+
+
+1.5. Scope & KPIs approval
+
+---------------- 2. The Research Phase
+- data set has been acquired
+- additional data sources may be added
+
+Exploration vs. Exploitation:
+
+Exploration - where we gather more information that 
+might lead us to better decisions in the future
+
+Exploitation: -where we make the best decision given current information
+
+
+2.2. Literature & solutions review
+- balance between exploration and exploitation, and between diving 
+into the intricacies of the material and extracting takeaways 
+and possible uses quickly
+- 
+
+
+
+
+
+
+Angeles
+
+Conclusion
+
+Now to bring this back to reality, and to connect our project to what our assignment was. 
+The problem worth analyzing and visualizing was recognizing human activity data with
+machine learning. We had a squeaky clean data set to work with, but we also wanted the 
+challenge, we also aggregated our own data using our smartphones. Within a short time
+(2 minutes) the smarphone has enough data to determine what its user is doing(95%: 6 activities).
+By linking these insights of more personal data of the participants, extensivee options open
+up. 
+
+In addition, these insights have be extracted from using smartphone sensor applications
+that can be found on Apple and Android app stores. 
+
+
+What did we learn?
+
+- our control group was not as controlled as it could have compared to the existing
+dataset provided by a team that already conducted this project
+
+- we learned how to keep data consistent
+- we learned how to scale our model with 6 activities instead of working with than a 
+  handful of activities
+- we learned that we don't need to use everything we learned if it is not necessary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
