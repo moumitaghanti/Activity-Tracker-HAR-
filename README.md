@@ -1,4 +1,4 @@
-# Human-Activity-Recognization-HAR-
+# Human-Activity-Recognization
 Load accelerometer data from the WISDM data set  and our data set
 
 Convert and reformat accelerometer data into a time-sliced representation(so that they won't overlap)
